@@ -7,7 +7,8 @@
 --> Go to Root directly of the project
 
 --> Run "mvn clean package"
-
 --> Run "java -jar target/jar_file_name.jar"
 
 --> Access the Application at IP:8080
+
+--> we are done with job
